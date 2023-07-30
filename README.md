@@ -3,6 +3,9 @@ ALPACA
 
 "**A**ctive-**L**earning **P**ipeline **AC**ronym: **A**LPACA"
 
+* This is a group project that is part of the Master's degree in Data Science at the Darmstadt University of Applied Sciences. The topic was presented by 'Sanofi', and the project was completed within 6 months. It consists of building a framework for various active (machine) learning strategies using Python, PyTorch, and TensorFlow.
+* Contributors: Lorenc Zhuka, Huiyi Wang, Nora Schaba, Tim Rohwedder, Salime Faizi, Patrick Eidemüller, Rehan Butt, Julian Bayer
+
 Setup:
 
 1. `conda env create -f environment.yml`
